@@ -1,3 +1,2 @@
-la liste des atapes pour un projet
-
-ajoute une etape du projet
+Une liste d'atape pour le projet
+nouvelle etape du projet
