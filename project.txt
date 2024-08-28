@@ -1,1 +1,3 @@
-Une liste d'atapes pour un projet
+la liste des atapes pour un projet
+
+ajoute une etape du projet
